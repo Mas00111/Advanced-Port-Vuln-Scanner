@@ -23,7 +23,6 @@ Python 3.x
 colorama
 
 Install dependencies:
-
 pip install colorama
 
 ⚠️ Disclaimer

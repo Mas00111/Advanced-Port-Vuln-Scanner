@@ -14,6 +14,7 @@ A multi-threaded Python port scanner with banner grabbing, service detection, an
 - Risk summary analytics
 
 ## ⚙️ How to Run
+
 python scanner.py
 
 📦 Requirements
@@ -24,4 +25,5 @@ Install dependencies:
 pip install colorama
 
 ⚠️ Disclaimer
+
 This tool is for educational and ethical security testing only.

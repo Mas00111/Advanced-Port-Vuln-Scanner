@@ -18,10 +18,12 @@ A multi-threaded Python port scanner with banner grabbing, service detection, an
 python scanner.py
 
 📦 Requirements
+
 Python 3.x
 colorama
 
 Install dependencies:
+
 pip install colorama
 
 ⚠️ Disclaimer
